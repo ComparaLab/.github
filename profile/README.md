@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/github/explore/main/topics/health/health.png](https://drive.google.com/file/d/1-_tDPiYFk3Hcy62STQLfsM1-Xs3o3eTi/view?usp=sharing)" alt="ComparaLab Logo" width="100" />
+  <img src="[https://drive.google.com/file/d/1-_tDPiYFk3Hcy62STQLfsM1-Xs3o3eTi/view?usp=sharing](https://drive.google.com/file/d/1-_tDPiYFk3Hcy62STQLfsM1-Xs3o3eTi/view?usp=sharing)" alt="ComparaLab Logo" width="100" />
 </p>
 
 <h1 align="center">🌎 ComparaLab Latam</h1>
